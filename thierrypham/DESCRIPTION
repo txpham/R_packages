@@ -10,6 +10,6 @@ LazyData: true
 RoxygenNote: 6.1.0
 Imports: glue
 NeedsCompilation: no
-Packaged: 2020-11-18 16:29:04 UTC; tpham
+Packaged: 2020-11-18 17:47:56 UTC; tpham
 Author: Thierry PHAM [aut, cre]
 Maintainer: Thierry PHAM <thierry.pham@dgfip.finances.gouv.fr>

@@ -6,6 +6,7 @@
 #' @importFrom glue glue
 #'
 #' @examples dire_bonjour(prenom='Thierry')
+#' @export
 dire_bonjour <- function(prenom='toi'){
     glue("Bonjour, {prenom}")
 }
