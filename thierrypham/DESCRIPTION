@@ -1,0 +1,15 @@
+Package: thierrypham
+Title: Mon package R avec au moins la fonction dire_bonjour
+Version: 0.0.0.9000
+Authors@R: person("Thierry", "PHAM", email = "thierry.pham@dgfip.finances.gouv.fr", role = c("aut", "cre"))
+Description: Contient la fonction dire_bonjour. 
+Depends: R (>= 3.5.1)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
+Imports: glue
+NeedsCompilation: no
+Packaged: 2020-11-18 16:29:04 UTC; tpham
+Author: Thierry PHAM [aut, cre]
+Maintainer: Thierry PHAM <thierry.pham@dgfip.finances.gouv.fr>
